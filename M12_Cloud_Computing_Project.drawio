@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-15T21:23:15.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Cx1IhBHPuSiUfC32A6Jx" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-15T21:34:03.057Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="iVORsTpagtdgn1PlT8pd" version="16.2.7" type="github">
   <diagram id="Cde-3X-1X5EVj61imLlX" name="Page-1">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -154,10 +154,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VdarfOzmsGKDCOIK_PlB-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Slack_colored_svg-128.png" parent="1" vertex="1">
-          <mxGeometry x="250" y="450" width="90" height="90" as="geometry" />
+          <mxGeometry x="270" y="450" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VdarfOzmsGKDCOIK_PlB-6" value="Translator-Bot" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="250" y="541.5" width="91.12" height="30" as="geometry" />
+          <mxGeometry x="268.88" y="540" width="91.12" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VdarfOzmsGKDCOIK_PlB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VdarfOzmsGKDCOIK_PlB-7" target="VdarfOzmsGKDCOIK_PlB-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -200,6 +200,18 @@
         </mxCell>
         <mxCell id="sKFou9yZOoE1EBQb0Xwh-18" value="/aws/lambda/lexDataToEC2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1416.5" y="760" width="78.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sKFou9yZOoE1EBQb0Xwh-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sKFou9yZOoE1EBQb0Xwh-25" target="VdarfOzmsGKDCOIK_PlB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sKFou9yZOoE1EBQb0Xwh-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="425" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="sKFou9yZOoE1EBQb0Xwh-28" value="Mobile client" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mobile_client;" vertex="1" parent="1">
+          <mxGeometry x="130" y="465" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sKFou9yZOoE1EBQb0Xwh-29" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="70" y="463.05" width="47.15" height="63.9" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
