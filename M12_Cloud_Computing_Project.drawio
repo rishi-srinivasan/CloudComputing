@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T23:06:48.168Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="df1L30RsGvWwYpHwBOnB" version="16.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-10T23:08:24.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="8hNCGTkgWWPcGT-A__L6" version="16.5.4" type="github">
   <diagram id="Cde-3X-1X5EVj61imLlX" name="Page-1">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -322,27 +322,27 @@
         <mxCell id="ni4OcqO88Lzvq4DjB9Rr-16" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Dynamo DB data displayed in index.html&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1502" y="317.75" width="150" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="ni4OcqO88Lzvq4DjB9Rr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.79;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ni4OcqO88Lzvq4DjB9Rr-17" target="UKweu5wvskNlFkjZEGn7-26">
+        <mxCell id="ni4OcqO88Lzvq4DjB9Rr-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontColor=#3333FF;" edge="1" parent="1" source="ni4OcqO88Lzvq4DjB9Rr-17" target="UKweu5wvskNlFkjZEGn7-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1240" y="570" />
-              <mxPoint x="1097" y="570" />
+              <mxPoint x="1244" y="600" />
+              <mxPoint x="1077" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ni4OcqO88Lzvq4DjB9Rr-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.79;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ni4OcqO88Lzvq4DjB9Rr-17" target="VdarfOzmsGKDCOIK_PlB-7">
+        <mxCell id="ni4OcqO88Lzvq4DjB9Rr-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;fontColor=#3333FF;" edge="1" parent="1" source="ni4OcqO88Lzvq4DjB9Rr-17" target="sKFou9yZOoE1EBQb0Xwh-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1240" y="570" />
-              <mxPoint x="1422" y="570" />
+              <mxPoint x="1244" y="600" />
+              <mxPoint x="1429" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ni4OcqO88Lzvq4DjB9Rr-17" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.iam;fillColor=#759C3E;gradientColor=none;fontFamily=Tahoma;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1223.1200000000001" y="594.25" width="42" height="81" as="geometry" />
+          <mxGeometry x="1222.9900000000002" y="639" width="42" height="81" as="geometry" />
         </mxCell>
         <mxCell id="ni4OcqO88Lzvq4DjB9Rr-24" value="LambdaFullwithTranslate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1211.7499999999998" y="700" width="78.25" height="30" as="geometry" />
+          <mxGeometry x="1200.9999999999998" y="720" width="78.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ni4OcqO88Lzvq4DjB9Rr-43" value="Deploy docker image to Elastic Container Service container" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1823" y="650" width="228" height="45" as="geometry" />
