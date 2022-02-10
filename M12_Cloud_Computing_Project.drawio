@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T21:17:50.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="vUCLgQGtReSj8VqhwV0f" version="16.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-10T21:24:57.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="smRXIqygCOKJDogmr2qm" version="16.5.4" type="github">
   <diagram id="Cde-3X-1X5EVj61imLlX" name="Page-1">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,9 +6,6 @@
         <mxCell id="1" parent="0" />
         <mxCell id="EA1YKVZXCybgp4M1fabI-1" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" parent="1" vertex="1">
           <mxGeometry x="390" width="2090" height="830" as="geometry" />
-        </mxCell>
-        <mxCell id="EA1YKVZXCybgp4M1fabI-2" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#147EBA;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=1;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="410" y="30" width="2060" height="790" as="geometry" />
         </mxCell>
         <mxCell id="UKweu5wvskNlFkjZEGn7-25" value="Translated &lt;br&gt;Information" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="690" y="460" width="150" height="30" as="geometry" />
@@ -34,11 +31,8 @@
         <mxCell id="rzOmGo2VR9fKO25eVvpv-15" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Send Dynamo DB &lt;br&gt;data&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1461.75" y="402.5" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rzOmGo2VR9fKO25eVvpv-13" value="HTTPS &lt;br&gt;GET Request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1265.12" y="402.5" width="151.75" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="rzOmGo2VR9fKO25eVvpv-17" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Save Dynamo DB &lt;br&gt;data in data lake&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1461.75" y="587.5" width="150" height="30" as="geometry" />
+          <mxGeometry x="1461.75" y="594.25" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rzOmGo2VR9fKO25eVvpv-35" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="1668" y="271.25" width="230" height="87.5" as="geometry" />
@@ -313,8 +307,11 @@
         <mxCell id="ni4OcqO88Lzvq4DjB9Rr-58" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application_load_balancer;fillColor=#F58534;gradientColor=none;" vertex="1" parent="XaE2ZHyz7dsWg8NqnUYi-5">
           <mxGeometry x="50" y="74" width="69" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="ni4OcqO88Lzvq4DjB9Rr-59" value="&lt;font color=&quot;#16191f&quot; face=&quot;amazon ember, helvetica neue, roboto, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(241 , 250 , 255)&quot;&gt;translator-lb&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XaE2ZHyz7dsWg8NqnUYi-5">
-          <mxGeometry x="44.5" y="150" width="80" height="30" as="geometry" />
+        <mxCell id="ni4OcqO88Lzvq4DjB9Rr-80" value="EC2ContainerService-translatorbotcluster" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="XaE2ZHyz7dsWg8NqnUYi-5">
+          <mxGeometry x="144.44" y="160" width="127.62" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ni4OcqO88Lzvq4DjB9Rr-81" value="translator-lb" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="XaE2ZHyz7dsWg8NqnUYi-5">
+          <mxGeometry x="50" y="156.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ni4OcqO88Lzvq4DjB9Rr-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XaE2ZHyz7dsWg8NqnUYi-6" target="UKweu5wvskNlFkjZEGn7-34">
           <mxGeometry relative="1" as="geometry" />
@@ -455,6 +452,12 @@
         </mxCell>
         <mxCell id="ni4OcqO88Lzvq4DjB9Rr-79" value="DynamoDBAccessForEC2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1988.93" y="39" width="166.13" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ni4OcqO88Lzvq4DjB9Rr-82" value="us-east-1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#147EBA;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="30" width="2056" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="rzOmGo2VR9fKO25eVvpv-13" value="HTTPS GET Request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=14;" parent="ni4OcqO88Lzvq4DjB9Rr-82" vertex="1">
+          <mxGeometry x="863.56" y="370" width="154.88" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
