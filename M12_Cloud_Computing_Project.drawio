@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-11T06:21:52.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="i_I1xfNcgXxHJDo-Zqd9" version="16.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-11T06:23:45.097Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="opf8pv0Z_AEWyRn667G2" version="16.5.4" type="github">
   <diagram id="Cde-3X-1X5EVj61imLlX" name="Page-1">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="ni4OcqO88Lzvq4DjB9Rr-82" value="us-east-1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#147EBA;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="50" width="1940" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="ni4OcqO88Lzvq4DjB9Rr-123" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=14;fontColor=#000000;fillColor=none;" vertex="1" parent="ni4OcqO88Lzvq4DjB9Rr-82">
+          <mxGeometry x="1690" y="580" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EA1YKVZXCybgp4M1fabI-1" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" parent="ni4OcqO88Lzvq4DjB9Rr-82" vertex="1">
           <mxGeometry x="-15" y="-30" width="1975" height="840" as="geometry" />
@@ -33,6 +36,9 @@
         </mxCell>
         <mxCell id="ni4OcqO88Lzvq4DjB9Rr-79" value="DynamoDBAccessForEC2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=14;" vertex="1" parent="ni4OcqO88Lzvq4DjB9Rr-82">
           <mxGeometry x="1580" width="166.13" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ni4OcqO88Lzvq4DjB9Rr-122" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Host Port: 8888&lt;br&gt;Container Port: 8080&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=11;fontColor=#000000;" vertex="1" parent="ni4OcqO88Lzvq4DjB9Rr-82">
+          <mxGeometry x="1683.07" y="580" width="153.87" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ni4OcqO88Lzvq4DjB9Rr-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ni4OcqO88Lzvq4DjB9Rr-76" target="XaE2ZHyz7dsWg8NqnUYi-18">
           <mxGeometry relative="1" as="geometry">
